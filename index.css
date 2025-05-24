@@ -1,0 +1,13 @@
+#introduction {
+    z-index: 0;
+    top: 50%; left: 70%; 
+    transform: translate(-50%, -50%);
+    color: black;
+    position: absolute;
+    background-color: none;
+    font-family: Arial, Helvetica, sans-serif
+}
+canvas {
+    z-index: 2;
+    position: absolute;
+}
